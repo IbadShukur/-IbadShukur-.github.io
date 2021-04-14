@@ -211,7 +211,7 @@ figure {
   height: 100%;
 }
 #fixed {
-  background-image: url('mac.png');
+  background-image: url('img/mac.png');
   position: fixed;
   display: block;
   top: 0;
@@ -249,11 +249,3 @@ Large (lg) devices (desktops, 992px and up)
 Extra (xl) large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) { ... }
 */
-
-
-
-
-
-
-
-
